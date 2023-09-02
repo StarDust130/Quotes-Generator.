@@ -1,5 +1,6 @@
 # Quotes-Generator.
-See Live ->https://stardust130.github.io/Quotes-Generator./
+
+## [See Live](https://stardust130.github.io/Quotes-Generator./)
 
 # A website that generates random quotes from a variety of sources.
 
