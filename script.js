@@ -12,6 +12,7 @@ async function get_quote(url) {
 }
 get_quote(api_url);
 
+
 const tweet = () => {
   window.open(
     "https://twitter.com/intent/tweet?text=" +
