@@ -10,6 +10,7 @@ async function get_quote(url) {
   quote.innerHTML = data.content;
   author.innerHTML = data.author;
 }
+
 get_quote(api_url);
 
 
