@@ -13,5 +13,4 @@ Share your favorite quotes with friends and family.
 Usage
 
 
-
 To use Quotes-Generator, simply visit the website and click on the "Generate Quote" button. A random quote will be generated from the available sources. You can then save the quote to your personal collection or share it with friends and family.
